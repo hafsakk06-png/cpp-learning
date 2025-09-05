@@ -9,10 +9,4 @@ int main() {
 
         sum += i;
         if(i == 5) {
-            break;    // keywords
-        }
-    }
-
-    cout <<"sum ="<< sum << endl;
-    return 0;
-}
+            break; 
